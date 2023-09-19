@@ -1,5 +1,5 @@
-# Spotify-Data-Analysis
-Spotify Data Analysis Project 
+# Spotify-Data-Analysis 
+<!--Spotify Data Analysis Project -->
 
 Welcome to the Spotify Data Analysis project! ,which provides a comprehensive exploration of Spotify music data, offering insights and visualizations on various aspects of music tracks.
 
