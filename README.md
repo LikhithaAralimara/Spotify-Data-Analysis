@@ -1,9 +1,7 @@
 # Spotify-Data-Analysis
 Spotify Data Analysis Project 
 
-# Spotify Music Data Analysis
-
-Welcome to the Spotify Music Data Analysis project! ,which provides a comprehensive exploration of Spotify music data, offering insights and visualizations on various aspects of music tracks.
+Welcome to the Spotify Data Analysis project! ,which provides a comprehensive exploration of Spotify music data, offering insights and visualizations on various aspects of music tracks.
 
 ## Overview
 
@@ -20,12 +18,20 @@ To get started with this analysis, follow these steps:
      git clone https://github.com/LikhithaAralimara/Spotify-Data-Analysis
      ```
 
-2. **Open the Jupyter Notebook:**
+2. **Download the Datasets:**
+   - To perform the analysis in this Jupyter Notebook, you'll need to download the following datasets:
+     - [tracks.csv](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=tracks.csv): This dataset contains information about various music tracks, which will be the primary data source for our analysis.
+     - [SpotifyFeatures.csv](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db?select=SpotifyFeatures.csv): This additional dataset provides genre-related information that will enhance our analysis.
+
+   - Make sure to download these datasets and place them in the same directory as the Jupyter Notebook (`Spotify.ipynb`) to ensure smooth execution of the analysis.
+
+3. **Open the Jupyter Notebook:**
    - Launch Jupyter Notebook or a compatible environment.
    - Navigate to the cloned directory and open the Jupyter Notebook file `Spotify.ipynb`.
 
-3. **Execute the Notebook:**
+4. **Execute the Notebook:**
    - Run the cells within the notebook to perform the analysis and generate visualizations.
+
 
 ## Analysis Highlights
 
@@ -37,7 +43,7 @@ Here are some of the key analyses and visualizations performed in the notebook:
 - **Genre Analysis:** Investigating the duration of songs in different genres and identifying the top 5 genres by popularity.
 
 
-# Repository Description
+# What's in 'Spotify.ipynb' file???
 
 This GitHub repository contains (`Spotify.ipynb`) file which helps in analyzing and visualizing Spotify music data using popular data science libraries such as NumPy, Pandas, Matplotlib, and Seaborn. The script explores a dataset of music tracks and provides insights into song popularity, correlations between variables, and genre-related information. Below is an overview of the main sections and analyses performed in the script:
 
@@ -87,5 +93,7 @@ This GitHub repository contains (`Spotify.ipynb`) file which helps in analyzing 
 - The top 5 genres with the highest popularity are identified and visualized in a bar plot.
 - ![image](https://github.com/LikhithaAralimara/Spotify-Data-Analysis/assets/128489410/d96799a6-7fd7-4100-800e-33a1935349e0)
 
+
+This script serves as a comprehensive analysis of Spotify music data, offering insights into song popularity, relationships between song attributes, and genre-related trends. The visualizations and analyses can help music enthusiasts, data scientists, and researchers gain a better understanding of music trends and preferences on the Spotify platform.
 
 This script serves as a comprehensive analysis of Spotify music data, offering insights into song popularity, relationships between song attributes, and genre-related trends. The visualizations and analyses can help music enthusiasts, data scientists, and researchers gain a better understanding of music trends and preferences on the Spotify platform.
